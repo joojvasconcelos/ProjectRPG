@@ -1,0 +1,14 @@
+
+public class Armadura {
+
+	int constanteDefesa;
+
+	public Armadura(int constanteDefesa) {
+		this.constanteDefesa = constanteDefesa;
+	}
+
+	public int getConstanteDefesa() {
+		return constanteDefesa;
+
+	}
+}
